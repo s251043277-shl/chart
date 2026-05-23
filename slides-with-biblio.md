@@ -250,5 +250,35 @@ This process capability chart visualizes the Part Length for products from Machi
 ::::
 
 ---
+
+:::: {.columns}
+::: {.column width="50%"}
+### X-bar Chart: Part Length (Machine 1, Temp 338, Pres 200)
+
+This control chart visualizes the Part Length for products from Machine 1 under specific conditions (Temperature 338, Pressure 200). It helps in monitoring process stability.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/xbar_one_partlength_machine1.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart: Part Length (Machine 1, Temp 338, Pres 200)
+
+This process capability chart visualizes the Part Length for products from Machine 1 under specific conditions (Temperature 338, Pressure 200). It helps in assessing the process's ability to meet specifications.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/process_capability_xbar_one_partlength_machine1.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+---
 # Bibliography
 <div id="refs"></div>
